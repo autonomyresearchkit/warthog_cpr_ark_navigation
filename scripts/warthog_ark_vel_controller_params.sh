@@ -1,0 +1,1 @@
+export WARTHOG_CONFIG_EXTRAS=$(catkin_find warthog_cpr_ark_navigation config/warthog_control.yaml)

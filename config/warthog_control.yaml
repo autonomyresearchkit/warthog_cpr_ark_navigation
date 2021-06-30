@@ -1,4 +1,4 @@
-husky_velocity_controller:
+warthog_velocity_controller:
   linear:
     x:
       has_acceleration_limits: true
