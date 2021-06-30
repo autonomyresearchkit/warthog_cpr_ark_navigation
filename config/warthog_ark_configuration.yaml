@@ -6,8 +6,8 @@ ark_config:
     max_linear_deceleration: -1.0
     max_ang_speed: 1.0
     max_ang_accel: 1.0
-    vehicle_length: 1.042
-    vehicle_width: 0.661
+    vehicle_length: 1.52
+    vehicle_width: 1.38
     stopping_distance_1M: 0.3
     lidar_spacing: 0.91
     laser_fov: 175.0
